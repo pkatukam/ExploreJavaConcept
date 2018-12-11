@@ -40,7 +40,7 @@ class subClass extends FinalMethodSample {
 	 */
 }
 
-public class InterviewSample {
+public class FinalFinallyFinalizeSample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

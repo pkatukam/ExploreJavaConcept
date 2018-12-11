@@ -131,6 +131,10 @@ abstract class Shape implements Dimensions {
 }
 
 /**
+ * 
+ * 
+ * 
+ * 
  * IMPORTANT NOTE #3 The type Square must implement the inherited abstract
  * method Shape.draw(). else define the class as abstract too.
  */
